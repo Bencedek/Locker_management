@@ -1,0 +1,5 @@
+﻿  system.cpp
+  test.cpp
+c:\users\bencedek\desktop\d\locker manager\locker manager\test.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Locker Manager.vcxproj -> C:\Users\Bencedek\Desktop\d\Locker Manager\Debug\Locker Manager.exe
